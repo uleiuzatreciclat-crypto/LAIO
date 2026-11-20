@@ -1,0 +1,25 @@
+
+# Dependencies
+node_modules/
+target/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+build/
+out/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
